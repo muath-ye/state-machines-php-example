@@ -9,3 +9,6 @@ composer create-project muathye/state-machines
 ## Usage
 
 Update `app.php` with different [state]
+
+
+This implementaion is based on [this Laracon talk](https://youtu.be/1A1xFtlDyzU)
